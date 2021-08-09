@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "A6kPB5ddGI21wIupLj8Wtwubf05TU9FanuM9NUHMEQUrEXGFsfcmVj7Bult9vI24c9YxHS+vnM5+ycIKPOKb2Q==",
+  "dgSpecHash": "XYfd1gTBG9YY8XVKeNai03LkPQNMPp7fV1i6ErlfEwk0qIHjCJyRQ1sT+FN4RlVWYodTtcIeqlJ+oM2Ujupk1A==",
   "success": true,
   "projectFilePath": "c:\\c#\\cat\\cat.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\james\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app\\2.0.9\\microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.9\\microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.9\\microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.9\\microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
